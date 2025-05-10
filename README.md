@@ -1,6 +1,6 @@
-# OtakuMerch - Anime Merchandise Website
+# Ty's Merch - Anime Merchandise Website
 
-Welcome to **OtakuMerch**, a responsive, interactive multipage website for showcasing and selling anime merchandise. This project demonstrates skills in HTML5, CSS3, JavaScript, and website deployment.
+Welcome to **Ty's Merch**, a responsive, interactive multipage website for showcasing and selling anime merchandise. This project demonstrates skills in HTML5, CSS3, JavaScript, and website deployment.
 
 ---
 
@@ -57,7 +57,7 @@ Welcome to **OtakuMerch**, a responsive, interactive multipage website for showc
 ### HTML (Semantic Structure)
 ```html
 <header>
-  <h1>OtakuMerch</h1>
+  <h1>Ty's Merch</h1>
   <nav>
     <a href="index.html">Home</a>
     <a href="products.html">Products</a>
