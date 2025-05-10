@@ -51,6 +51,20 @@ Welcome to **Ty's Merch**, a responsive, interactive multipage website for showc
 - ✅ Smooth navigation across pages
 
 ---
+## 🧩 Key Components
+
+### 🌙 Dark/Light Theme Toggle
+Users can switch between light and dark themes. Preferences are saved in `localStorage` for persistence across sessions.
+
+### 📱 Responsive Navigation
+Navigation adapts to different screen sizes using CSS media queries. A hamburger menu appears on smaller screens to improve usability.
+
+### ✅ JavaScript Interactivity
+- Contact form validation  
+- Dark/light theme toggle logic  
+- Image slider (optional or in future scope)  
+
+---
 
 ## 🎨 Sample Code Snippets
 
@@ -65,3 +79,21 @@ Welcome to **Ty's Merch**, a responsive, interactive multipage website for showc
     <a href="contact.html">Contact</a>
   </nav>
 </header>
+```
+--- 
+
+## Future Enhancements
+
+- 🛒 Fully functional shopping cart system
+
+- 👤 User authentication
+
+- 💳 Payment processing integration
+
+- 🚚 Order tracking functionality
+
+--- 
+
+## 🙏 Credits
+
+- Images: Freepik
