@@ -71,6 +71,8 @@ nav a:hover {
   padding: 40px 20px;
   text-align: center;
 }
+
+
 .product-grid {
     align-items: center;
     display: flex;
@@ -173,9 +175,12 @@ footer {
   font-size: 2rem;
   margin-bottom: 10px;
 }
+.contact-footer {
+  margin-top: 20%;
+}
 form {
-  max-width: 500px;
-  margin: 0 auto;
+  max-width: 800px;
+  margin: auto;
   display: flex;
   flex-direction: column;
   gap: 15px;
